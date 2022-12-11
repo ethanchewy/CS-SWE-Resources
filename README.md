@@ -2,6 +2,14 @@
 
 ## Student Resources
 
+### Recruiting Prep
+| Resource | 
+|----------|
+| [LeetCode](https://leetcode.com/) | 
+| [NeetCode](https://neetcode.io/) | 
+| [Levels.fyi](https://levels.fyi/) | 
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) |
+
 ### Hackathons
 
 | Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
