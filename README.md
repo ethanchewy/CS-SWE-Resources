@@ -34,9 +34,9 @@
 ### Programs
 
 | Resource | Target Demographics | Pros | Cons |
-|----------|------------------------|--------------------------|------|------|
+|----------|------------------------|--------------------------|------|
 |    [CodeNation](https://codenation.org/)      |  High School Students Starting to Program |  Classes taught by software engineers in industry    |  Requires consistent commitment for students    |
-|   [USACO](http://www.usaco.org/)       |             High School Students Interested in Competitve Programming |   Strengthens math and cs fundamentals as well as problem solving aspects   |   Very competive - hard to qualify for USA team   |
+|   [USACO](http://www.usaco.org/)       |             High School Students Interested in Competitve Programming |   Strengthens math and cs fundamentals as well as problem solving aspects. This is good for getting a strong base for succeeding in CS in college and beyond. |   Very competive - hard to qualify for USA team   |
 |          |                     |      |      |
 
 ### Fellowships
