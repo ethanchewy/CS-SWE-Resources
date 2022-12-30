@@ -2,6 +2,11 @@
 
 ## Student Resources
 
+### Scholarships
+| Resource | Category | Deadline | Prize | 
+|----------|----------|----------|----------|
+| ACM/CSTA Cutler-Bell Prize | High School Research | | $10,000 |
+
 ### Misc.
 | Resource | 
 |----------|
@@ -26,11 +31,11 @@
 
 ### Programs
 
-| Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
+| Resource | Target Demographics | Pros | Cons |
 |----------|------------------------|--------------------------|------|------|
-|    [CodeNation](https://codenation.org/)      |      Yes                  |    No                      |      |      |
-|          |                        |                          |      |      |
-|          |                        |                          |      |      |
+|    [CodeNation](https://codenation.org/)      |  High School Students Starting to Program |  Classes taught by software engineers in industry    |  Requires consistent commitment for students    |
+|   [USACO](http://www.usaco.org/)       |             High School Students Interested in Competitve Programming |   Strengthens math and cs fundamentals as well as problem solving aspects   |   Very competive - hard to qualify for USA team   |
+|          |                     |      |      |
 
 ### Fellowships
 
