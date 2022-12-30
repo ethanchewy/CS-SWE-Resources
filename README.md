@@ -2,6 +2,12 @@
 
 ## Student Resources
 
+### Misc.
+| Resource | 
+|----------|
+| [GitHub Student Developer Pack](https://education.github.com/pack) |
+| [AWS Student Hub](https://aws.amazon.com/developer/community/students/) |
+
 ### Recruiting Prep
 | Resource | 
 |----------|
