@@ -5,9 +5,11 @@
 ### Scholarships
 | Resource | Category | Deadline | Prize | 
 |----------|----------|----------|----------|
-| ACM/CSTA Cutler-Bell Prize | High School Research | | $10,000 |
+| ACM/CSTA Cutler-Bell Prize | High School Researcher | ~ January | $10,000 |
+| Amazon Future Engineer Scholarship | High School Senior + Financial Need | ~ January | $40,000 |
 
-### Misc.
+
+### Misc. Resources for Both HS + College
 | Resource | 
 |----------|
 | [GitHub Student Developer Pack](https://education.github.com/pack) |
