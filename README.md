@@ -10,7 +10,7 @@ Here are some resources for your <y> once <> enters high school that might be he
 * Summer Course at UC Berkeley CS (need to be 16-18 years old): https://precollege.berkeley.edu/commuter
 ```
 
-Below is a list of resources that I want to share 
+Below is a list of vetted resources that I usually share when people ask me for resources. 
 
 ## Student Resources
 
