@@ -37,12 +37,17 @@ Below is a list of vetted resources that I usually share when people ask me for 
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) |
 
 ### Hackathons
-All are free.
+All are free. Great way to learn how to build an app in 3 days. I've attended all the hackathons listed below and can attest to the high quality.
+
 | Resource | Accept High Schoolers? | Accept College Students? | 
 |----------|------------------------|--------------------------|
-|     [Hack the North](https://hackthenorth.com/)     |      Yes |Yes| 
-|    [HackMIT](https://hackmit.org/)      |               No         | Yes |
-|   [CalHacks](https://calhacks.io/)       |            No            |  Yes |
+|     [Hack the North](https://hackthenorth.com/)   - I attended this when I was 15 yrs old. 10/10 recommend. Was one of the first people to experiment with Oculus VR and other new technologies  |      Yes |Yes| 
+|   [PennApps](https://pennapps.com/)   - I attended this multiple times in high school. Lots of great workshops and smart people  |            Yes            |  Yes |
+|   [Hack Gen Y](http://hackgeny.com/)   - This was my first hackathon when I was 14. Lots of workshops and mentors.    |            Yes            |  Yes |
+|    [TreeHacks](https://www.treehacks.com/#faqs) - This was very well run and was a smaller hackathon. Lots of good prizes too.      |               No         | Yes |
+|   [CalHacks](https://calhacks.io/)   - I got my first internship at Etsy by networking here and talking to engineers and recruiters    |            No            |  Yes |
+
+
 
 ### Programs
 
@@ -87,16 +92,22 @@ In general, you can contribute to open-source and read research papers in an are
 
 Many of my friends, including myself conducted research in both high school and college by reaching out to professors and research labs that we were interested in. If you want an example email template, feel free to reach out.
 
-For UC Berkeley:
-| Resource |
-|----------|
-|    [URAP](https://research.berkeley.edu/urap)      |    
-
-HS Program: 
+For High school students: 
 | Resource |
 |----------|
 |    [HS Research @ UC Berkeleye](https://precollege.berkeley.edu/commuter)   - must be 16 to 18  yrs old |    
 
+For UC Berkeley undergrads:
+| Resource |
+|----------|
+|    [URAP](https://research.berkeley.edu/urap)      |    
+
+
+
+### Career Fairs
+I got most of my first interviews through career fairs. 
+
+Go to your career fair in college and talk to recruiters. 
 
 ### Books
 Some books that I think are helpful:
