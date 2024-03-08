@@ -6,17 +6,7 @@ Hi <x>,
 
 Here are some resources for your <y> once <> enters high school that might be helpful:
 * FIRST Robotics: https://www.firstinspires.org/robotics/frc
-* MIT Primes Research program: https://primes.mit.edu/
-* USACO competition programming: https://www.usaco.org/
-* Regeneron Science Competition: https://sciencetalentsearch.smapply.org/
-* ISEF Competition: https://www.societyforscience.org/isef/
-* ACM Research High School Scholarship (Merit Based): https://awards.acm.org/cutler-bell
-* Digital Ocean Open Source Contribution Event: https://hacktoberfest.com/
-* High School Research
-     * Contact 2-3 professors near where you live to see if they are willing to take unpaid researchers. 
-     * Read research papers in the area you are interested in using: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf 
-* Free Programming courses: CodeAcademy and edX
-* Dual Enrollment at Local College.
+....
 * Summer Course at UC Berkeley CS (need to be 16-18 years old): https://precollege.berkeley.edu/commuter
 ```
 
