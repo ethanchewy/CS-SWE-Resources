@@ -46,12 +46,12 @@ Below is a list of resources that I want to share
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) |
 
 ### Hackathons
-
-| Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
-|----------|------------------------|--------------------------|------|------|
-|     [Hack the North](https://hackthenorth.com/)     |      Yes |Yes| One of the largest hackathons - great way to meet other CS students. Lots of great mentors and workshops to learn from. The also cover travel expenses. |  No sleep.  |
-|    [HackMIT](https://hackmit.org/)      |                        |                          |      |      |
-|   [CalHacks](https://calhacks.io/)       |                        |                          |      |      |
+All are free.
+| Resource | Accept High Schoolers? | Accept College Students? | 
+|----------|------------------------|--------------------------|
+|     [Hack the North](https://hackthenorth.com/)     |      Yes |Yes| 
+|    [HackMIT](https://hackmit.org/)      |               No         | 
+|   [CalHacks](https://calhacks.io/)       |            No            |  
 
 ### Programs
 
