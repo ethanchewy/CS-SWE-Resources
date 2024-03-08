@@ -50,8 +50,8 @@ All are free.
 | Resource | Accept High Schoolers? | Accept College Students? | 
 |----------|------------------------|--------------------------|
 |     [Hack the North](https://hackthenorth.com/)     |      Yes |Yes| 
-|    [HackMIT](https://hackmit.org/)      |               No         | 
-|   [CalHacks](https://calhacks.io/)       |            No            |  
+|    [HackMIT](https://hackmit.org/)      |               No         | Yes |
+|   [CalHacks](https://calhacks.io/)       |            No            |  Yes |
 
 ### Programs
 
