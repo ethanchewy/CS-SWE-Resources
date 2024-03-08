@@ -92,6 +92,12 @@ For UC Berkeley:
 |----------|
 |    [URAP](https://research.berkeley.edu/urap)      |    
 
+HS Program: 
+| Resource |
+|----------|
+|    [HS Research @ UC Berkeleye](https://precollege.berkeley.edu/commuter)   - must be 16 to 18  yrs old |    
+
+
 ### Books
 Some books that I think are helpful:
 | Resource | 
