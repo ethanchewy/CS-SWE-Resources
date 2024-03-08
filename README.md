@@ -4,7 +4,7 @@ A lot of my friends and people I've worked with in the past have kids now that a
 ```
 Hi <x>,
 
-Here are some resources for your son once he enters high school that might be helpful:
+Here are some resources for your <y> once <> enters high school that might be helpful:
 * FIRST Robotics: https://www.firstinspires.org/robotics/frc
 * MIT Primes Research program: https://primes.mit.edu/
 * USACO competition programming: https://www.usaco.org/
@@ -29,6 +29,7 @@ Below is a list of resources that I want to share
 |----------|----------|----------|----------|
 | ACM/CSTA Cutler-Bell Prize | High School Researcher | ~ January | $10,000 |
 | Amazon Future Engineer Scholarship | High School Senior + Financial Need | ~ January | $40,000 |
+| CocaCola Scholarship | High School Senior + Pure Merit | ~ October | $20,000 |
 
 
 ### Misc. Resources for Both HS + College
@@ -55,34 +56,32 @@ All are free.
 
 ### Programs
 
-| Resource | Target Demographics | Pros | Cons |
-|----------|------------------------|--------------------------|------|
-|    [CodeNation](https://codenation.org/)      |  High School Students Starting to Program |  Classes taught by software engineers in industry    |  Requires consistent commitment for students    |
-|   [USACO](http://www.usaco.org/)       |             High School Students Interested in Competitve Programming |   Strengthens math and cs fundamentals as well as problem solving aspects. This is good for getting a strong base for succeeding in CS in college and beyond. |   Very competive - hard to qualify for USA team   |
-|   [FIRST Robotics](https://www.firstinspires.org/robotics/frc)       |                     |      |      |
-|   [MIT Primes Research](https://primes.mit.edu/)      |                     |      |      |
-|   [Regeneron Science Competition]([https://primes.mit.edu/](https://sciencetalentsearch.smapply.org/))      |                     |      |      |
-|   [ISEF Competition](https://www.societyforscience.org/isef/)  |                     |      |      |
-
-* ACM Research High School Scholarship (Merit Based): https://awards.acm.org/cutler-bell
-* Digital Ocean Open Source Contribution Event: https://hacktoberfest.com/ 
+| Resource | Target Demographics | 
+|----------|------------------------|
+|    [CodeNation](https://codenation.org/)      |  High School Students Starting to Program |  
+|   [USACO](http://www.usaco.org/)       |             High School Students Interested in Competitve Programming |  
+|   [FIRST Robotics](https://www.firstinspires.org/robotics/frc)       |          High School Students (No tech background nec.)           |    
+|   [MIT Primes Research](https://primes.mit.edu/)      |           HS Students w/ Strong Academics          | 
+|   [Regeneron Science Competition]([https://primes.mit.edu/](https://sciencetalentsearch.smapply.org/))      |    HS Students w/ Research Background                 |
+|   [ISEF Competition](https://www.societyforscience.org/isef/)  |         HS Students w/ Research Background               | 
+|   [Digital Ocean Open Source Contribution Event](https://hacktoberfest.com/ )  |        Anyone            | 
 
 ### Fellowships
 
-| Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
-|----------|------------------------|--------------------------|------|------|
-|    [HackNY](https://hackny.org/)      |           No             |           Yes               |      |      |
-|     [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)     |          No             |             Yes             |      |      |
-|    [Bessemer Fellows](https://www.bvp.com/bessemer-fellows)      |        No                |         Yes                 |      |      |
+| Resource | Accept High Schoolers? | Accept College Students? | 
+|----------|------------------------|--------------------------|
+|    [HackNY](https://hackny.org/)      |           No             |           Yes               |  
+|     [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)     |          No             |             Yes             |  
+|    [Bessemer Fellows](https://www.bvp.com/bessemer-fellows)      |        No                |         Yes                 |
+|    [Angel List](https://www.angellist.com/) - reach out to startups and create your own internship     |        Yes                |         Yes                 |
 
-### Internships (Early Career)
-| Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
-|----------|------------------------|--------------------------|------|------|
-|    [Google Step](https://buildyourfuture.withgoogle.com/programs/step)      |                        |                          |      |      |
-|     [TwitterAcademy](https://careers.twitter.com/en/early-career.html)     |                       |                          |      |      |
-|    [Facebook University](https://diversity.fb.com/initiative/facebook-university/)     |                        |                          |      |      |
-|    [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram)      |                        |                          |      |      |
-
+### Internships (Early Career College)
+| Resource | 
+|----------|
+|    [Google Step](https://buildyourfuture.withgoogle.com/programs/step)      |  
+|     [TwitterAcademy](https://careers.twitter.com/en/early-career.html)     |  
+|    [Facebook University](https://diversity.fb.com/initiative/facebook-university/)     |        
+|    [Microsoft Explore](https://careers.microsoft.com/students/us/en/usexploremicrosoftprogram)      |  
 ### Job Search
 | Resource | Accept High Schoolers? | Accept College Students? | Pros | Cons |
 |----------|------------------------|--------------------------|------|------|
@@ -92,7 +91,11 @@ All are free.
 
 
 ### Research
-A lot of these programs are school dependent. In general, you can contribute to open-source and read research papers in an area and write your own summaries / research. Then, you can reach out to interested professors and research labs.
+A lot of these programs are school dependent. 
+
+In general, you can contribute to open-source and read research papers in an area and write your own summaries / research. Then, you can reach out to interested professors and research labs.
+
+Many of my friends, including myself conducted research in both high school and college by reaching out to professors and research labs that we were interested in. If you want an example email template, feel free to reach out.
 
 For UC Berkeley:
 | Resource | Pros | Cons |
@@ -103,8 +106,15 @@ For UC Berkeley:
 
 ### Books
 Some books that I think are helpful:
-| Resource | Pros | Cons |
-|----------|------------------------|--------------------------|
-|   Designing Data Intensive Applications by Martin Kleppmann |                        |     
-|   HeadsFirst Java       |      Accessible course                |                          | 
-|          |                        |                          |  
+| Resource | 
+|----------|
+|   Designing Data Intensive Applications by Martin Kleppmann | 
+|   Composing Programs (https://www.composingprograms.com/) | 
+|   Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein       |
+|   Algorithms Unlocked by Thomas H. Cormen       |  
+
+
+
+### Misc
+* https://leetcode.com/
+* https://projecteuler.net/
