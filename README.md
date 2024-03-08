@@ -98,11 +98,9 @@ In general, you can contribute to open-source and read research papers in an are
 Many of my friends, including myself conducted research in both high school and college by reaching out to professors and research labs that we were interested in. If you want an example email template, feel free to reach out.
 
 For UC Berkeley:
-| Resource | Pros | Cons |
-|----------|------------------------|--------------------------|
-|    [URAP](https://research.berkeley.edu/urap)      |                        |     
-|          |                        |                          | 
-|          |                        |                          |  
+| Resource |
+|----------|
+|    [URAP](https://research.berkeley.edu/urap)      |    
 
 ### Books
 Some books that I think are helpful:
