@@ -20,6 +20,7 @@ Below is a list of vetted resources that I usually share when people ask me for 
 | ACM/CSTA Cutler-Bell Prize | High School Researcher | ~ January | $10,000 |
 | Amazon Future Engineer Scholarship | High School Senior + Financial Need | ~ January | $40,000 |
 | CocaCola Scholarship | High School Senior + Pure Merit | ~ October | $20,000 |
+| NSA Stokes Scholarship | High School Senior + Pure Merit | ~ October | $30,000 per college year|
 
 
 ### Misc. Resources for Both HS + College
